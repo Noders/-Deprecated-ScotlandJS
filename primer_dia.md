@@ -8,6 +8,7 @@
 - [Open Open Source](#open-open-source)
 - [Overcoming the challenges of mentoring](#mentoring)
 - [I'm offline, cool. What now?](#offline)
+- [James Halliday](#p2p)
 
 
 
@@ -105,9 +106,6 @@
 
 
 
------
-
-
 
 
 -----
@@ -126,4 +124,15 @@
 
 
 -----
-- [](#)
+
+
+
+
+
+### <a name="p2p"></a>P2P off the grid by [James Halliday](https://twitter.com/@substack)
+
+##### Slides
+- []()
+
+##### Recommended reads
+- []()
