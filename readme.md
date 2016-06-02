@@ -1,6 +1,6 @@
 # JSConf Uruguay 2016 - Talks
 
-![](https://cdn.rawgit.com/fforres/JSConfUY/master/small-logo.svg)
+![](https://cdn.rawgit.com/fforres/ScotlandJS/master/small-logo.png)
 
 Hi guys!
 This small repo is to keep track of every talk related to the latest [ScotlandJS](http://scotlandjs.com/)
