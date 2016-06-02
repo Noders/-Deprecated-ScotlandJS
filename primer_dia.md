@@ -5,6 +5,7 @@
 ### First day
 - [VR in Javascript](#vr-in-javascript)
 - [Progressive Web Apps and Service workers are the future](#service-workers)
+- [Open Open Source](#open-open-source)
 
 
 
@@ -37,3 +38,26 @@
 
 ##### Recommended reads
 - []()
+
+
+
+
+
+-----
+
+
+
+
+### <a name="open-open-source"></a>Open Open Source by [Charlotte Spencer](https://twitter.com/@charlotteis)
+
+##### Slides
+- []()
+
+##### Recommended reads
+- [https://twitter.com/@yourfirstpr](https://twitter.com/@yourfirstpr)
+
+
+
+
+-----
+- [](#)
