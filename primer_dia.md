@@ -8,7 +8,9 @@
 - [Open Open Source](#open-open-source)
 - [Overcoming the challenges of mentoring](#mentoring)
 - [I'm offline, cool. What now?](#offline)
-- [James Halliday](#p2p)
+- [P2P off the grid](#p2p)
+- [How to ask about gender](#gender)
+- [Getting physical with web bluetooth in the browser](#bluetooth)
 
 
 
@@ -130,6 +132,42 @@
 
 
 ### <a name="p2p"></a>P2P off the grid by [James Halliday](https://twitter.com/@substack)
+
+##### Slides
+- []()
+
+##### Recommended reads
+- []()
+
+
+
+
+
+-----
+
+
+
+
+
+### <a name="gender"></a>How to ask about gender by [Chad Gowler](https://twitter.com/@kitation)
+
+##### Slides
+- []()
+
+##### Recommended reads
+- []()
+
+
+
+
+
+-----
+
+
+
+
+
+### <a name="bluetooth"></a>Getting physical with web bluetooth in the browser by [Dan Jenkins](https://twitter.com/@dan_jenkins)
 
 ##### Slides
 - []()
