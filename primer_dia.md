@@ -2,7 +2,6 @@
 
 ![](https://cdn.rawgit.com/fforres/ScotlandJS/master/small-logo.png)
 
-
 ### First day
 - [VR in Javascript](#vr-in-javascript)
 - [Progressive Web Apps and Service workers are the future](#service-workers)
