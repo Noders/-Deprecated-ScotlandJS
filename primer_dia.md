@@ -5,6 +5,7 @@
 
 ### First day
 - [VR in Javascript](#vr-in-javascript)
+- [Progressive Web Apps and Service workers are the future](#service-workers)
 
 
 
@@ -26,3 +27,14 @@
 
 
 -----
+
+
+
+
+### <a name="service-workers"></a>Progressive Web Apps and Service workers are the future. by [Jem Young](https://twitter.com/@jemyoung)
+
+##### Slides
+- []()
+
+##### Recommended reads
+- []()
