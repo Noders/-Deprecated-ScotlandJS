@@ -6,6 +6,7 @@
 - [VR in Javascript](#vr-in-javascript)
 - [Progressive Web Apps and Service workers are the future](#service-workers)
 - [Open Open Source](#open-open-source)
+- [Overcoming the challenges of mentoring](#mentoring)
 
 
 
@@ -78,6 +79,27 @@
 
 
 ### <a name="lets-talk-about-midi-by-ruth-john"></a>Let's Talk About Midi by [Ruth John](https://twitter.com/@rumyra)
+
+##### Slides
+- []()
+
+##### Recommended reads
+- []()
+
+
+
+-----
+- [](#)
+
+
+
+
+-----
+
+
+
+
+### <a name="mentoring"></a>Overcoming the challenges of mentoring by [Kim crayton](https://twitter.com/@KimCrayton1)
 
 ##### Slides
 - []()
