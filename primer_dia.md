@@ -7,6 +7,7 @@
 - [Progressive Web Apps and Service workers are the future](#service-workers)
 - [Open Open Source](#open-open-source)
 - [Overcoming the challenges of mentoring](#mentoring)
+- [I'm offline, cool. What now?](#offline)
 
 
 
@@ -88,11 +89,6 @@
 
 
 
------
-- [](#)
-
-
-
 
 -----
 
@@ -100,6 +96,26 @@
 
 
 ### <a name="mentoring"></a>Overcoming the challenges of mentoring by [Kim crayton](https://twitter.com/@KimCrayton1)
+
+##### Slides
+- []()
+
+##### Recommended reads
+- []()
+
+
+
+-----
+
+
+
+
+-----
+
+
+
+
+### <a name="offline"></a>I'm offline, cool. What now? by [Ola Gasildo](https://twitter.com/@misprintedtype)
 
 ##### Slides
 - []()
