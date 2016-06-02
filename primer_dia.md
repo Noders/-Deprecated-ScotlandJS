@@ -19,8 +19,8 @@
 - []()
 
 ##### Recommended reads
-- []()
-
+- [https://github.com/misslivirose/learnvr](https://github.com/misslivirose/learnvr)
+-[WebVR - Bringing Virtual Reality to the Web](https://webvr.info/)
 
 
 
