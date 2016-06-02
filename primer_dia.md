@@ -4,7 +4,6 @@
 
 
 ### First day
-- [The !future of JS. - by Alejandro Oviedo](#the-future-of-js)
 - [VR in Javascript](#vr-in-javascript)
 
 
