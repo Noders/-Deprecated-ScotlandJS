@@ -61,3 +61,31 @@
 
 -----
 - [](#)
+
+
+
+
+
+
+
+
+
+
+
+-----
+
+
+
+
+### <a name="lets-talk-about-midi-by-ruth-john"></a>Let's Talk About Midi by [Ruth John](https://twitter.com/@rumyra)
+
+##### Slides
+- []()
+
+##### Recommended reads
+- []()
+
+
+
+-----
+- [](#)
