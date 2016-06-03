@@ -1,4 +1,4 @@
-# ScotlandJS 2016 - Talks
+# ScotlandJS 2016 - Talks (First Day)
 
 ![](https://cdn.rawgit.com/fforres/ScotlandJS/master/small-logo.png)
 
